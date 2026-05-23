@@ -346,4 +346,4 @@ Content-Type: text/csv
 **Project Lead:** Meghansh Mohabey  
 - **Email:** meghansh.n.mohabey@gmail.com
 - **GitHub:** [github.com/MeghanshMohabey](https://github.com/MeghanshMohabey)
-- **LinkedIn:** [linkedin.com/in/meghansh-mohabey](https://linkedin.com/in/meghansh-mohabey)
+- **LinkedIn:** [linkedin.com/in/meghansh-mohabey](https://www.linkedin.com/in/meghansh-mohabey-5980882b2/)
